@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Arjun Singh",
+    "description":"I am a certified full stack web developer with a degree in business marketing from Loyola University Maryland. I have a degree in business marketing and would like to work in the world of sports or esports marketing",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "arjunksingh1027@gmail.com",
+    "phone": "214-755-1027",
+    "github":"https://github.com/arjunsingh1027",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"7442 N Whisper Canyon Pl",
+      "city":"Tucson",
+      "state":"Arizona",
+      "zip": "85718"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -46,19 +46,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some of my skills and my proficiency with them",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Loyola University Maryland",
+        "degree":"Business Marketing",
+        "graduated":"May 2020",
+        "description":"Received a BBA in business marketing. Spent one semester learning about Disney's consumer engagement and then learned hands on in Disney in Orlando, FL"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Arizona",
+        "degree":"Coding Bootcamp",
+        "graduated":"January 2021",
+        "description":"Receieved a certification in full stack web development"
       }
     ],
     "work":[
