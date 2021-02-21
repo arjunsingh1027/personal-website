@@ -1,14 +1,14 @@
 {
   "main": {
     "name":"Arjun Singh",
-    "description":"I am a certified full stack web developer with a degree in business marketing from Loyola University Maryland. I have a degree in business marketing and would like to work in the world of sports or esports marketing",
+    "description":"I am a certified full stack web developer with a degree in business marketing from Loyola University Maryland. I am looking to start my career and would eventualy like to work in the world of sports or esports marketing",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am always looking for new opportunities to grow my skills and gain experience. I am a hard worker and a quick learner who, after years of international travel and relocation, is able to adapt to any situation. I have had leadership roles where I got to work and collaborate with individuals from different parts of the world and ways of life",
+    "contactmessage":"If you would like to get in contact, please reach out to me or fill out the form below.",
     "email": "arjunksingh1027@gmail.com",
     "phone": "214-755-1027",
     "github":"https://github.com/arjunsingh1027",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "linkedin":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"7442 N Whisper Canyon Pl",
       "city":"Tucson",
@@ -16,34 +16,7 @@
       "zip": "85718"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
-      }
-    ]
+    "resumedownload":"http://timbakerdev.com"
   },
   "resume":{
     "skillmessage":"Here are some of my skills and my proficiency with them",
