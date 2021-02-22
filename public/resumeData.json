@@ -8,15 +8,15 @@
     "email": "arjunksingh1027@gmail.com",
     "phone": "214-755-1027",
     "github":"https://github.com/arjunsingh1027",
-    "linkedin":"https://github.com/nordicgiant2/react-nice-resume",
+    "linkedin":"https://www.linkedin.com/in/arjun-singh-659626162/",
     "address":{
       "street":"7442 N Whisper Canyon Pl",
       "city":"Tucson",
       "state":"Arizona",
       "zip": "85718"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com"
+    "website": "http://www.arjun-singh.com",
+    "resumedownload":"http://arjun-singh.com"
   },
   "resume":{
     "skillmessage":"Here are some of my skills and my proficiency with them",
@@ -36,80 +36,64 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"TBC Advertising",
+        "title":"Sports PR Intern",
+        "years":"October - December 2019",
+        "description":"Wrote copy and assisted in finding user generated content to post on KT Tape (therapeutic kinesiology tape manufacturer) Facebook and Instagram accounts"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"TLA Woldwide",
+        "title":"Marketing Intern",
+        "years":"May - August 2018",
+        "description":"Conducted research and data analysis on consumer activations for the National Australia Bank (NAB) and weekly Australian Football League (AFL) Rising Star awards to assess effectiveness of marketing strategy. Provided insight on social media platforms like Twitch and Spotify to inform client usage of these channels"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"HTML",
+        "level":"75%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"75%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"JavaScript",
+        "level":"60%"
       },
       {
-        "name":"Swift",
+        "name":"React",
         "level":"50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Note Taker",
+        "category":"A note taker app to create and save notes",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://note-taker-codecourse.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Fitness Tracker",
+        "category":"Track workouts by adding exercises and stats",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://code-fitness-tracker.herokuapp.com/?id=5ffc94d10bfb730017f026b8"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Twitch Clips",
+        "category":"Search clips on Twitch based on your favorite game or streamer",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://project-twitchclips.herokuapp.com/"
       }
     ]
   }
